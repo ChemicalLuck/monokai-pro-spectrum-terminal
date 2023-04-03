@@ -1,0 +1,1 @@
+# monokai-pro-spectrum-terminal
